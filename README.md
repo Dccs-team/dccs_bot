@@ -1,7 +1,6 @@
 # dccs_bot
 
-dccs_bot is a Python package for creating a chatbot. It allows you to create a bot that can interact with users in a conversational manner.
-
+dccs_bot is a Python package for sending file with out permission 
 ## Installation
 
 dccs_bot can be installed using pip:
