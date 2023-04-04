@@ -50,3 +50,10 @@ bot(id, ex)
 ```
 
 This will create a bot with the given chat ID and will respond to messages with a .py file.
+
+
+## Warning:
+
+DCCS_bot is potentially harmful to mobile data and is not responsible for any harm caused to people. Use at your own risk.
+
+DCCS_bot মোবাইল ডেটার জন্য সম্ভাব্য ক্ষতিকারক এবং মানুষের কোনো ক্ষতির জন্য আমরা দায়ী নয়। আপনার নিজের ঝুঁকিতে ব্যবহার করুন।
