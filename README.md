@@ -41,7 +41,10 @@ Finally, you can use the bot:
 Here is an example of how to use dccs_bot:
 
 ```python
-from dccs_bot import bot
+try:
+   from dccs_bot import bot
+except ModuleNotFoundError:
+   os.system('pip install dccs_bot')
 
 id = 12345678
 ex = ".jpg"
