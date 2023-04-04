@@ -30,7 +30,7 @@ Next, you will need to provide a chat ID:
 
 Next, you will need to provide a extension
 
-Extension like ( .py .jpg .pdf etc.. )
+`Extension like ( .py .jpg .pdf etc.. )`
 
 Finally, you can use the bot:
 
