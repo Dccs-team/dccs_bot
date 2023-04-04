@@ -27,7 +27,7 @@ To use dccs_bot, you will need to import the package:
 
 Next, you will need to provide a chat ID:
 
-`id = chat_id`
+`id = your telegram chat_id`
 
 Finally, you can use the bot:
 
@@ -42,6 +42,7 @@ from dccs_bot import bot
 
 id = 12345678
 bot(id, ".py")
+
 ```
 
 This will create a bot with the given chat ID and will respond to messages with a .py file.
