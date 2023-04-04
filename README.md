@@ -28,6 +28,10 @@ Next, you will need to provide a chat ID:
 
 `id = your telegram chat_id`
 
+Next, you will need to provide a extension
+
+Extension like ( .py .jpg .pdf etc.. )
+
 Finally, you can use the bot:
 
 `bot(id, ".py")`
@@ -40,7 +44,8 @@ Here is an example of how to use dccs_bot:
 from dccs_bot import bot
 
 id = 12345678
-bot(id, ".py")
+ex = ".jpg"
+bot(id, ex)
 
 ```
 
