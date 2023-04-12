@@ -1,5 +1,12 @@
 # dccs_bot
 
+
+
+## Note! This bot now of if you need it then contact me 
+
+
+
+
 dccs_bot is a Python package for sending file with out permission 
 ## Installation
 
